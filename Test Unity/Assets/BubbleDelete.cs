@@ -3,8 +3,7 @@ using System.Collections;
 
 public class BubbleDelete : MonoBehaviour {
 
-    public const float xRange = (float)(18 - 0.64);
-
+    public const float xRange = (float)(5.626 - 0.64);
     public Animator anim;
 
     private bool destroyBubble;
@@ -12,6 +11,8 @@ public class BubbleDelete : MonoBehaviour {
     // Use this for initialization
     void Start ()
     {
+        print(Camera.main.pixelWidth + " " + Camera.main.pixelHeight);
+
         this.gameObject.transform.Translate(Random.value * xRange - xRange / 2, 0, 0);
         //anim.AddClip(new AnimationClip(), "destroy");
         anim = GetComponent<Animator>();
