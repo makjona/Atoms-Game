@@ -68,11 +68,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\BubbleCreator.cs" />
-    <Compile Include="Assets\BubbleDelete.cs" />
-    <Compile Include="Assets\BubbleGravity.cs" />
-    <Compile Include="Assets\TextScript.cs" />
-    <Compile Include="Assets\UpdateScore.cs" />
+    <Compile Include="Assets\Scripts\BubbleCreator.cs" />
+    <Compile Include="Assets\Scripts\BubbleGravity.cs" />
+    <Compile Include="Assets\Scripts\BubbleLife.cs" />
+    <Compile Include="Assets\Scripts\GameFunctions.cs" />
+    <Compile Include="Assets\Scripts\GameOverTexts.cs" />
+    <Compile Include="Assets\Scripts\GameStart.cs" />
+    <Compile Include="Assets\Scripts\MenuSelect.cs" />
+    <Compile Include="Assets\Scripts\MenuTexts.cs" />
+    <Compile Include="Assets\Scripts\UpdateScore.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>

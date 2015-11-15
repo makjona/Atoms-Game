@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 8a65c533c14286346bc225a6bf8abbe9
+timeCreated: 1445741239
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: magic_003_0
+    21300002: magic_003_1
+    21300004: magic_003_2
+    21300006: magic_003_3
+    21300008: magic_003_4
+    21300010: magic_003_5
+    21300012: magic_003_6
+    21300014: magic_003_7
+    21300016: magic_003_8
+    21300018: magic_003_9
+    21300020: magic_003_10
+    21300022: magic_003_11
+    21300024: magic_003_12
+    21300026: magic_003_13
+    21300028: magic_003_14
+    21300030: magic_003_15
+    21300032: magic_003_16
+    21300034: magic_003_17
+    21300036: magic_003_18
+    21300038: magic_003_19
+    21300040: magic_003_20
+    21300042: magic_003_21
+    21300044: magic_003_22
+    21300046: magic_003_23
+    21300048: magic_003_24
+    21300050: magic_003_25
+    21300052: magic_003_26
+    21300054: magic_003_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: magic_003_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 905
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 912
+        width: 138
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 915
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 916
+        width: 124
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 904
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 724
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 724
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 723
+        width: 127
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 712
+        width: 148
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 723
+        width: 140
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 515
+        width: 136
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 527
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_12
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 539
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 534
+        width: 127
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 524
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 341
+        width: 136
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 346
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_17
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 337
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_18
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 344
+        width: 124
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 344
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 150
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 154
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 151
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_23
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 152
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_24
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 155
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 12
+        width: 124
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 11
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magic_003_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 119
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
